@@ -38,8 +38,8 @@ const Contact = () => {
 
     emailjs
        .send(
-        'service_xsusicj',
-        'template_puwwpc3',
+        'service_code',
+        'template_code',
         {
           from_name: form.name,
           to_name: "Javad",
