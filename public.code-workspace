@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "public",
+			"path": "../../../Downloads/public"
+		},
+		{
+			"name": "website_port",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
